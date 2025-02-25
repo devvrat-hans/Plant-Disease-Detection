@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Classification with CNN
+# Plant Disease Classification with CNN
 
 This project aims to build a plant disease classification model using a **Convolutional Neural Network (CNN)**, powered by **TensorFlow** and **Keras**. The goal is to classify images of plants into one of 38 categories, identifying various diseases and plant types. The dataset used is the **PlantVillage dataset** from Kaggle.
 
